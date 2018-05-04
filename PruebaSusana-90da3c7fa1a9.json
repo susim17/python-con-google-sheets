@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pruebasusana-202516",
+  "private_key_id": "90da3c7fa1a948b4f5037862a89dface6074f986",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtPOaICUCVRhqZ\nebUfe631oWHZ9QYu1bX5u6JzAwS7SUePecdwoQdCZfLzc6fhOEjyyxwk5KSlDOxd\niSI20THDkpkKNN6cw+SwYLVkU9L14vmxUuRlP7H86w3IuOa9e8KUatDqDq/Ga7Ir\ny8f08LiyqJ3Nthe+uph7TTP/a88AxUXKNeWJZ22FecwG8OkL2FaxPNIyOCfkd4lA\nkan3V/MXsUPtivF3kGGPwaR1Chw8gVv25wNFdL64hien1ZX0+7s6f6e8eT4gFJAO\nmP5jX8tf4gQ+F376Pi4Vg3hGju0BAsqyEVZjKl+AfoXA3uCbqhsiKl1538YOVcxw\nqw1LiEIfAgMBAAECggEAEGw5uy4MB3quB9xQAtbh5BYd+ssYgHUgZgyBzHRookFC\nqEPWV9jezCPHtzOWIoAy+NgEvYHyvSDaAXiqxoE+E05roATou6TId74F7tJm09+Q\nuzI4AQSGS4s+8xyFkfNQZsCE40NsKhvIjWVT+eZIzssJrALgrQ3vFEqlLMgcHMmZ\nOjq+eOBj8+5/O8e4wjxr9CHdok14ppQmm6hjV1R8KUOGgGH+ZlwkPi5kn1Slzi6p\njqcGkuYNcb+spjR8qi9mx9JrU0ZhKaXKZiDEziRlO8s/uuT6weOV9MAzUzpGjNOu\nWkWoGbe4+9Wz30VPef3D2FD+EFLy/g1vJ1HhfkJwFQKBgQDud1dgOPdymedob9Jl\nGtqwj4DvdCahEJtAYr1yDqT0MwPLdzHCD06um87lnZKzeTnxQWXOXUUgKso+us+G\n8QKypO75GUhuP5X7B7pAhfFS5/4inC+rZTKNirUetJkRrYDmsv1wHrSf2SAxY5//\nWtCGKvZDItFYmqdYjZhwxjHaSwKBgQC5+cO3J1IJuh03OL9u5OrL9K1CvIMW9C/o\nz85B5+xoi+TIxJAGONPzukh1xODzR9D4T5SlaB2VuvAba7W1FBTLHGE6f/x79HQP\nJ7CaBS+lF6nUUTsxFrXbvW8IW6XjDgazZaE7KzAeGagcxBl/KoHA1PgGJnmfhdXW\nEXDQVlbS/QKBgQDCI+C70sUJxOiTqu4EKA/AzKPwzoQgfq+WhIytTeTXdqzxOfIF\nhobNOsX/RADKIrichFyI3IBJhuyuk1IfDxneLM7td7rzHstQ2uK0YxesInlQ3g0l\nIbc9ap64B9nSfYnCyBfy7tyogpFmBDCfKOU5RcLFt5Pt6cKyIlzn+0Nc7wKBgFBc\ng9y9ye5YFM3K4LWrh2XwaXnf+YlOpPEl8ot6Cya15Ht4rH9zyOqVgUAafdXCH6Nc\nx++diMMtjxlaNp9zePS3Y7Aio9hwLkJqNR6oxQjCq+kJ3Nj+ZkD4n2TuLUVqxyx3\n6u6lX9px3bnoZtgTZxQLMs19jKqI63jf+m6cEFKFAoGBAJ8BP23nmQeEaRYQ2KZV\nomy9Pok7xr3I+iyL20tBvwBLBTQx3zD5baO9ASd7fLwaWl/WSYHJxZ2oqIaun9QW\nv6FxqZ7v22MVVXGjh+ZNzAoH2bGIW1mndayHQ8Qbxni6dnptNmtmNur/X35IS9A/\nxZGpyRo9x6qLEqXjc1CHj7Zt\n-----END PRIVATE KEY-----\n",
+  "client_email": "susanamolina@pruebasusana-202516.iam.gserviceaccount.com",
+  "client_id": "109087466530470480266",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/susanamolina%40pruebasusana-202516.iam.gserviceaccount.com"
+}
